@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/egyetem/4.felev/mobil/projekt/app/src/main/res/drawable/circle.xml" value="0.285" />
+        <entry key="..\:/egyetem/4.felev/mobil/projekt/app/src/main/res/drawable/ic_phone.xml" value="0.285" />
+        <entry key="..\:/egyetem/4.felev/mobil/projekt/app/src/main/res/drawable/ic_search.xml" value="0.285" />
+        <entry key="..\:/egyetem/4.felev/mobil/projekt/app/src/main/res/drawable/phone.xml" value="0.285" />
+        <entry key="..\:/egyetem/4.felev/mobil/projekt/app/src/main/res/layout-land/activity_main.xml" value="0.25" />
+        <entry key="..\:/egyetem/4.felev/mobil/projekt/app/src/main/res/layout-land/activity_register.xml" value="0.31040564373897706" />
+        <entry key="..\:/egyetem/4.felev/mobil/projekt/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/egyetem/4.felev/mobil/projekt/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/egyetem/4.felev/mobil/projekt/app/src/main/res/layout/activity_shop_list.xml" value="0.17831813576494426" />
+        <entry key="..\:/egyetem/4.felev/mobil/projekt/app/src/main/res/layout/custom_menu_item.xml" value="0.17831813576494426" />
+        <entry key="..\:/egyetem/4.felev/mobil/projekt/app/src/main/res/layout/list_item.xml" value="0.5" />
+        <entry key="..\:/egyetem/4.felev/mobil/projekt/app/src/main/res/layout/phone_main.xml" value="0.3009833262077811" />
+        <entry key="..\:/egyetem/4.felev/mobil/projekt/app/src/main/res/menu/phone_menu.xml" value="0.3009833262077811" />
+        <entry key="..\:/egyetem/4.felev/mobil/projekt/app/src/main/res/menu/shop_list_menu.xml" value="0.3009833262077811" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

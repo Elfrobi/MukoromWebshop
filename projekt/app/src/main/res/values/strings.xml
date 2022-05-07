@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Shop</string>
+    <string name="name">Név</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="registration">Regisztráció</string>
+    <string name="user_name">Felhasználónév</string>
+    <string name="email_address">E-mail cím</string>
+    <string name="password_again">Jelszó megerősítése</string>
+    <string name="cancel">Mégse</string>
+    <string name="phone_number">Telefonszám</string>
+    <string name="address">Cím</string>
+    <string name="account_type">Fiók típusa</string>
+    <string name="customer">Vásárló</string>
+    <string name="seller">Eladó</string>
+    <string name="product_description">Termék leírása.</string>
+
+    <string name="title_placeholder">Title</string>
+    <string name="item_placeholder">Leírás</string>
+    <string name="item_info_placeholder">Here is some news</string>
+    <string name="subtitle_detail_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor diam fringilla tellus, eu euismod mauris neque at neque.</string>
+    <string name="to_cart">Kosárba</string>
+    <string name="delete">Törlés</string>
+    <string name="email">E-mail cím</string>
+    <string name="google_login">Bejelentkezés google fiókkal</string>
+    <string name="asd">asd</string>
+    <string name="phone">Phone</string>
+
+    <string-array name="phone_labels">
+        <item>Otthon</item>
+        <item>Munkahely</item>
+        <item>Mobil</item>
+        <item>Egyéb</item>
+    </string-array>
+
+    <string-array name="shopping_item_names">
+        <item>Akril Zselé</item>
+        <item>Alaplakk</item>
+        <item>Építő Zselé</item>
+        <item>Csiszoló</item>
+        <item>Csiszolófej</item>
+        <item>Lemosó</item>
+        <item>Porcelánpor</item>
+        <item>Színes Zselé</item>
+        <item>Lemosó</item>
+        <item>Csillámpor</item>
+    </string-array>
+
+    <string-array name="shopping_item_desc">
+        <item>Színes akríl zselé!</item>
+        <item>Átlátszó alaplakk!</item>
+        <item>Ez egy építő zselé!</item>
+        <item>Jó minőségű csiszoló!</item>
+        <item>Csiszolófej csiszolóhoz!</item>
+        <item>Körömlakk lemosó!</item>
+        <item>Fehér porcelánpor!</item>
+        <item>Lila zselé!</item>
+        <item>Pink körömlakk!</item>
+        <item>Csillámpor a gyöngyörű ragyogásért!</item>
+    </string-array>
+
+    <array name="shopping_item_rates">
+        <item>3.5</item>
+        <item>5</item>
+        <item>4</item>
+        <item>1.5</item>
+        <item>5</item>
+        <item>3</item>
+        <item>4.5</item>
+        <item>4</item>
+        <item>5</item>
+        <item>2.5</item>
+    </array>
+
+    <array name="shopping_item_images">
+        <item>@drawable/akrilzsele</item>
+        <item>@drawable/alaplakk</item>
+        <item>@drawable/epitozsele</item>
+        <item>@drawable/csiszolo</item>
+        <item>@drawable/csiszolofej</item>
+        <item>@drawable/lemoso</item>
+        <item>@drawable/porcelanpor</item>
+        <item>@drawable/szineszsele</item>
+        <item>@drawable/koromlakk</item>
+        <item>@drawable/csillampor</item>
+    </array>
+
+    <array name="shopping_item_price">
+        <item>4500 Ft</item>
+        <item>3400 Ft</item>
+        <item>3100 Ft</item>
+        <item>24000 Ft</item>
+        <item>11000 Ft</item>
+        <item>1700 Ft</item>
+        <item>670 Ft</item>
+        <item>3000 Ft</item>
+        <item>4000 Ft</item>
+        <item>900 Ft</item>
+    </array>
+</resources>
